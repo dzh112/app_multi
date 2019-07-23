@@ -1,0 +1,26 @@
+[36minfo[39m: Welcome to Appium v1.4.16 (REV ae6877eff263066b26328d457bd285c0cc62430d)
+[36minfo[39m: Appium REST http interface listener started on 127.0.0.1:4751
+[36minfo[39m: [debug] Non-default server args: {"address":"127.0.0.1","port":4751,"bootstrapPort":4752}
+[36minfo[39m: Console LogLevel: debug
+
+D:\20190517\APPIUM_MULTI>[31merror[39m: Couldn't start Appium REST http interface listener. Requested port is already in use. Please make sure there's no other instance of Appium running already.
+
+D:\20190517\APPIUM_MULTI>lt server args: {"address":"127.0.0.1","port":4751,"bootstrapPort":4752}
+[36minfo[39m: Console LogLevel: debug
+
+D:\20190517\APPIUM_MULTI>[36minfo[39m: Welcome to Appium v1.4.16 (REV ae6877eff263066b26328d457bd285c0cc62430d)
+[36minfo[39m: Appium REST http interface listener started on 127.0.0.1:4751
+[36minfo[39m: [debug] Non-default server args: {"address":"127.0.0.1","port":4751,"bootstrapPort":4752}
+[36minfo[39m: Console LogLevel: debug
+
+D:\20190517\APPIUM_MULTI>[36minfo[39m: Welcome to Appium v1.4.16 (REV ae6877eff263066b26328d457bd285c0cc62430d)
+[36minfo[39m: Appium REST http interface listener started on 127.0.0.1:4751
+[36minfo[39m: [debug] Non-default server args: {"address":"127.0.0.1","port":4751,"bootstrapPort":4752}
+[36minfo[39m: Console LogLevel: debug
+
+D:\20190517\APPIUM_MULTI>[36minfo[39m: Welcome to Appium v1.4.16 (REV ae6877eff263066b26328d457bd285c0cc62430d)
+[36minfo[39m: Appium REST http interface listener started on 127.0.0.1:4751
+[36minfo[39m: [debug] Non-default server args: {"address":"127.0.0.1","port":4751,"bootstrapPort":4752}
+[36minfo[39m: Console LogLevel: debug
+
+D:\20190517\APPIUM_MULTI>
